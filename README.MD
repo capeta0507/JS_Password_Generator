@@ -11,5 +11,8 @@
 2. http://www.asciitable.com/
 3. https://www.cs.cmu.edu/~pattis/15-1XX/common/handouts/ascii.html
 
+### copy javascript 功能
+[Copying text to clipboard with JavaScript](https://hackernoon.com/copying-text-to-clipboard-with-javascript-df4d4988697f)
+
 ### Github
 [密碼亂數產生](https://github.com/capeta0507/JS_Password_Generator)
